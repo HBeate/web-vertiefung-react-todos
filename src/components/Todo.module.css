@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    justify-content:  space-between;
+    padding: 20px;
+    margin-bottom: 2px;;
+    background-color: rgb(255, 204, 127);
+
+    -webkit-box-shadow: 0px 0px 40px -14px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 40px -14px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 40px -14px rgba(0,0,0,0.75);
+}
+
+.icon{
+    font-size: 1.8rem;
+}
+.iconThumb{
+    font-size: 1.5rem;
+  
+}
